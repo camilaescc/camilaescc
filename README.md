@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camilaescc
-- 👀 I’m interested in studying
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning code
 - ⚡ Fun fact: I like to read in my free time
 
