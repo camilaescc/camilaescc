@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-milaescs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) 
 
-I'm currently pursuing a degree in Information Technology and Telecommunications Engineering, with a strong passion for developing innovative solutions to complex problems. I am particularly interested in cybersecurity and look forward to creating my own VPN while finishing my degree.
+I'm currently pursuing a degree in Information Technology and Telecommunications Engineering, with a strong passion for developing innovative solutions to complex problems. I am particularly interested in cybersecurity and look forward on developing my own VPN while finishing my degree.
 
 ## Programming Languages
  <img src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
